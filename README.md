@@ -1,22 +1,18 @@
 # I am Raymart Datuin
-## Computer Engineering Traditional Student at University of Alberta.
-<a href="https://www.linkedin.com/in/raymart-d-8708a7123/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-My%20LinkedIn%20Page-0E76A8?style=for-the-badge&logo=linkedin"></a>
 <a href="raymart.pro"><img alt="Resume" src="https://img.shields.io/badge/Resume-yellow?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/raymart-d-8708a7123/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-My%20LinkedIn%20Page-0E76A8?style=for-the-badge&logo=linkedin"></a>
 
 😄 Pronouns: He/Him
+🎓Computer Engineering Traditional at University of Alberta
 
 🌱 I’m currently learning Full-Stack Web Development, Distributed Computing and DevOps
 
-🔭 I’m currently working on UAlberta STARR Website
+🔭 I’m currently working on [UAlberta STARR Website](https://www.uastarr.ca/)
 
-📫 Reach me at [LinkedIn](https://www.linkedin.com/in/raymart-d-8708a7123/)
-
-📄 [Resume](raymart.pro)
 
 [![Raymart's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gigantorz&show_icons=true&theme=tokyonight)](https://github.com/Gigantorz/github-readme-stats&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gigantorz&layout=donut-vertical&langs_count=8&theme=tokyonight)](https://github.com/Gigantorz/github-readme-stats)
-
 
 
 <!--
