@@ -10,9 +10,9 @@
 🔭 I’m currently working for Sunmor Research Inc.
 
 
-[![Raymart's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gigantorz&show_icons=true&theme=tokyonight)](https://github.com/Gigantorz/github-readme-stats&show_icons=true)
+[![Raymart's GitHub stats](https://github-readme-stats-gigantorzs-projects.vercel.app/api?username=Gigantorz&show_icons=true&theme=tokyonight)](https://github.com/Gigantorz/github-readme-stats&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gigantorz&layout=donut-vertical&langs_count=8&theme=tokyonight)](https://github.com/Gigantorz/github-readme-stats)
+[![Top Langs](https://github-readme-stats-gigantorzs-projects.vercel.app/api/top-langs/?username=Gigantorz&layout=donut-vertical&langs_count=8&theme=tokyonight)](https://github.com/Gigantorz/github-readme-stats)
 
 
 <!--
