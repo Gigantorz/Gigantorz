@@ -5,9 +5,9 @@
 😄 Pronouns: He/Him
 🎓Computer Engineering Traditional at University of Alberta
 
-🌱 I’m currently learning Full-Stack Web Development, Distributed Computing and DevOps
+🌱 I’m currently learning Full-Stack Web Development, and DevOps
 
-🔭 I’m currently working on [UAlberta STARR Website](https://www.uastarr.ca/)
+🔭 I’m currently working for Sunmor Research Inc.
 
 
 [![Raymart's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gigantorz&show_icons=true&theme=tokyonight)](https://github.com/Gigantorz/github-readme-stats&show_icons=true)
